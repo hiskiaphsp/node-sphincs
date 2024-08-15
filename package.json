@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "sphincs": "^3.0.4"
+  }
+}
